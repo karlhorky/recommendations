@@ -21,7 +21,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://de.wikipedia.org/wiki/User:NonScolae">NonScolae</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://de.wikipedia.org/wiki/User:NonScolae">NonScolae</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
 
     <td>
@@ -31,7 +31,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://github.com/karlhorky">karlhorky</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://github.com/karlhorky">karlhorky</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
 
     <td>
@@ -41,7 +41,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://www.flickr.com/photos/alexanderferdinand/">Alexander Russy</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://www.flickr.com/photos/alexanderferdinand/">Alexander&nbsp;Russy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
   </tr>
 </table>
