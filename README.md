@@ -60,7 +60,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://en.wikipedia.org/wiki/User:Theitalianpen">Theitalianpen</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://en.wikipedia.org/wiki/User:Theitalianpen">Theitalianpen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
 
     <td>
@@ -70,7 +70,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://commons.wikimedia.org/w/index.php?title=User:Fyona_A._Hall%C3%A9&amp;action=edit&amp;redlink=1">Fyona A. Hallé</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://commons.wikimedia.org/w/index.php?title=User:Fyona_A._Hall%C3%A9&amp;action=edit&amp;redlink=1">Fyona&nbsp;A.&nbsp;Hallé</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://commons.wikimedia.org/wiki/User:Der_Wolf_im_Wald">Thomas Wolf</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://commons.wikimedia.org/wiki/User:Der_Wolf_im_Wald">Thomas&nbsp;Wolf</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
 
     <td>
@@ -100,7 +100,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://commons.wikimedia.org/wiki/User:Max_Novara">Max Novara</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://commons.wikimedia.org/wiki/User:Max_Novara">Max&nbsp;Novara</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://commons.wikimedia.org/wiki/User:Thomas_Ledl">Thomas Ledl</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://commons.wikimedia.org/wiki/User:Thomas_Ledl">Thomas&nbsp;Ledl</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
 
     <td>
@@ -129,7 +129,7 @@
 
       <br>
 
-      <sub>Photo by <a href="https://commons.wikimedia.org/wiki/User:Hubertl">Hubertl</a></sub>
+      <sub>Photo&nbsp;by&nbsp;<a href="https://commons.wikimedia.org/wiki/User:Hubertl">Hubertl</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
 
     <td>
