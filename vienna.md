@@ -15,7 +15,6 @@
       <br>
       <sub>Photo&nbsp;by&nbsp;<a href="https://de.wikipedia.org/wiki/Benutzer:Sallmutter">Hannes&nbsp;Sallmutter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
     </td>
-
     <td>
       <a href="https://en.wikipedia.org/wiki/Water_Lilies#/media/File:Claude_Monet,_The_Water_Lily_Pond,_c._1917-19,_frame_cropped,_Google_Art_Project.jpg">
         <img height="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Claude_Monet%2C_The_Water_Lily_Pond%2C_c._1917-19%2C_frame_cropped%2C_Google_Art_Project.jpg/640px-Claude_Monet%2C_The_Water_Lily_Pond%2C_c._1917-19%2C_frame_cropped%2C_Google_Art_Project.jpg">
