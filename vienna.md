@@ -155,21 +155,21 @@
 
 ### Nightlife
 
-#### Kantine
+#### Flex
 
-[Info](http://www.diekantine.co.at/), [Vienna Online (German)](http://www.vienna.at/die-kantine-exklusiver-techno-club-mit-ablaufdatum/4094434)
-
-#### Pratersauna
-
-[Info](http://www.pratersauna.tv/), [Wikipedia](https://de.wikipedia.org/wiki/Pratersauna)
+[Info](http://flex.at/flex_frontend/index.php?selected=programm), [Wikipedia](https://en.wikipedia.org/wiki/Flex_(club))
 
 #### Grelle Forelle
 
 [Info](https://www.grelleforelle.com/), [Wikipedia (German)](https://de.wikipedia.org/wiki/Grelle_Forelle)
 
-#### Flex
+#### O Klub
 
-[Info](http://flex.at/flex_frontend/index.php?selected=programm), [Wikipedia](https://en.wikipedia.org/wiki/Flex_(club))
+[Info](https://o-klub.at/), [Kronen Zeitung (German)](https://archive.ph/VBgCl)
+
+#### Pratersauna
+
+[Info](http://www.pratersauna.tv/), [Wikipedia](https://de.wikipedia.org/wiki/Pratersauna)
 
 ### Theater
 
